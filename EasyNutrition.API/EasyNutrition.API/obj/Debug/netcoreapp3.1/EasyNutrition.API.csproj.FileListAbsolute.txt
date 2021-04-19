@@ -1,0 +1,126 @@
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\EasyNutrition.API.exe
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\EasyNutrition.API.deps.json
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\EasyNutrition.API.runtimeconfig.json
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\EasyNutrition.API.runtimeconfig.dev.json
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\EasyNutrition.API.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\EasyNutrition.API.pdb
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.csprojAssemblyReference.cache
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.AssemblyInfoInputs.cache
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.AssemblyInfo.cs
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.csproj.CoreCompileInputs.cache
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.RazorTargetAssemblyInfo.cache
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.csproj.CopyComplete
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\staticwebassets\EasyNutrition.API.StaticWebAssets.Manifest.cache
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\staticwebassets\EasyNutrition.API.StaticWebAssets.xml
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.dll
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.pdb
+E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.genruntimeconfig.cache
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\appsettings.json
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\EasyNutrition.API.exe
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\EasyNutrition.API.deps.json
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\EasyNutrition.API.runtimeconfig.json
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\EasyNutrition.API.runtimeconfig.dev.json
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\EasyNutrition.API.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\EasyNutrition.API.pdb
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\MySql.Data.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.csprojAssemblyReference.cache
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.AssemblyInfoInputs.cache
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.AssemblyInfo.cs
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.csproj.CoreCompileInputs.cache
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.MvcApplicationPartsAssemblyInfo.cs
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.MvcApplicationPartsAssemblyInfo.cache
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.RazorTargetAssemblyInfo.cache
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.csproj.CopyComplete
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\staticwebassets\EasyNutrition.API.StaticWebAssets.Manifest.cache
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\staticwebassets\EasyNutrition.API.StaticWebAssets.xml
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.dll
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.pdb
+G:\6TO ciclo\Aplicaciones Web\semana 8\EasyNutrition\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.genruntimeconfig.cache
