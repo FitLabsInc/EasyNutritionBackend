@@ -39,24 +39,30 @@ namespace EasyNutrition.API
             services.AddDbContext<AppDbContext>(options =>
             {
                 //options.UseInMemoryDatabase("easynutrition-api-in-memory");
-                options.UseMySQL(Configuration.GetConnectionString("MySQLConnection"));
+                //options.UseMySQL(Configuration.GetConnectionString("MySQLConnection"));
+                options.UseMySQL(Configuration.GetConnectionString("CloudMySQLConnection"));
             });
 
             services.AddCors(options =>
             {
-                options.AddPolicy(name: MyAllowSpecificOrigins,
+                options.AddPolicy("Cors",
                                   builder =>
                                   {
-                                      builder.WithOrigins("http://localhost:8080");
+                                      builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
                                   });
+               // options.AddPolicy(name: MyAllowSpecificOrigins,
+               //                   builder =>
+               //                   {
+               //                       builder.WithOrigins("http://localhost:8080");
+               //                   });
 
-               options.AddPolicy("AnotherPolicy",
-               builder =>
-               {
-                   builder.WithOrigins("http://localhost:8080")
-                                       .AllowAnyHeader()
-                                       .AllowAnyMethod();
-               });
+               //options.AddPolicy("AnotherPolicy",
+               //builder =>
+               //{
+               //    builder.WithOrigins("http://localhost:8080")
+               //                        .AllowAnyHeader()
+               //                        .AllowAnyMethod();
+               //});
             });
 
             services.AddScoped<IRoleRepository, RoleRepository>();
@@ -112,7 +118,7 @@ namespace EasyNutrition.API
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseHttpsRedirection();
+            //app.UseHttpsRedirection();
 
             app.UseRouting();
 

@@ -17,9 +17,9 @@ namespace EasyNutrition.API.Extensions
             {
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
-                    Title = "EasyNutrition API",
+                    Title = "Healthy Nutrition API",
                     Version = "v1",
-                    Description = "EasyNutrition RESTful API"
+                    Description = "Healthy Nutrition RESTful API"
 
                 });
                 c.EnableAnnotations();
@@ -34,7 +34,7 @@ namespace EasyNutrition.API.Extensions
             app.UseSwaggerUI(c =>
             {
                 c.SwaggerEndpoint("/api-docs/v1/swagger.json", "EasyNutrition API V1");
-                c.RoutePrefix = "api-docs/v1";
+                c.RoutePrefix = string.Empty;
             });
             return app;
         }

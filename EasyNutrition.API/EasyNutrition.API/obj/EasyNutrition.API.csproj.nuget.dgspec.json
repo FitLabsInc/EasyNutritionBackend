@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Proyectos Programación\\C#\\EasyNutrition\\EasyNutrition.API\\EasyNutrition.API\\EasyNutrition.API.csproj": {}
+    "C:\\Users\\Alex\\Documents\\GitHub\\HealthyNutritionBackend\\EasyNutrition.API\\EasyNutrition.API\\EasyNutrition.API.csproj": {}
   },
   "projects": {
-    "E:\\Proyectos Programación\\C#\\EasyNutrition\\EasyNutrition.API\\EasyNutrition.API\\EasyNutrition.API.csproj": {
+    "C:\\Users\\Alex\\Documents\\GitHub\\HealthyNutritionBackend\\EasyNutrition.API\\EasyNutrition.API\\EasyNutrition.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Proyectos Programación\\C#\\EasyNutrition\\EasyNutrition.API\\EasyNutrition.API\\EasyNutrition.API.csproj",
+        "projectUniqueName": "C:\\Users\\Alex\\Documents\\GitHub\\HealthyNutritionBackend\\EasyNutrition.API\\EasyNutrition.API\\EasyNutrition.API.csproj",
         "projectName": "EasyNutrition.API",
-        "projectPath": "E:\\Proyectos Programación\\C#\\EasyNutrition\\EasyNutrition.API\\EasyNutrition.API\\EasyNutrition.API.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\Proyectos Programación\\C#\\EasyNutrition\\EasyNutrition.API\\EasyNutrition.API\\obj\\",
+        "projectPath": "C:\\Users\\Alex\\Documents\\GitHub\\HealthyNutritionBackend\\EasyNutrition.API\\EasyNutrition.API\\EasyNutrition.API.csproj",
+        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alex\\Documents\\GitHub\\HealthyNutritionBackend\\EasyNutrition.API\\EasyNutrition.API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -61,6 +67,10 @@
             "Microsoft.OpenApi": {
               "target": "Package",
               "version": "[1.2.3, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.13, )"
             },
             "MySql.Data.EntityFrameworkCore": {
               "target": "Package",
@@ -93,7 +103,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
