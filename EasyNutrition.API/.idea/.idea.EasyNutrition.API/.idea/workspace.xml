@@ -5,49 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="373fcec0-71e5-44e2-a88e-0d47c3a24c88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.EasyNutrition.API/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.EasyNutrition.API/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.EasyNutrition.API/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.EasyNutrition.API/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BDDTests/Features/US0002.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BDDTests/Features/US0005.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BDDTests/Features/US0006.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API.Test/obj/Debug/netcoreapp3.1/EasyNutrition.API.Test.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNutrition.API.Test/obj/Debug/netcoreapp3.1/EasyNutrition.API.Test.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API.Test/obj/Debug/netcoreapp3.1/EasyNutrition.API.Test.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNutrition.API.Test/obj/Debug/netcoreapp3.1/EasyNutrition.API.Test.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API.Test/obj/Debug/netcoreapp3.1/EasyNutrition.API.Test.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNutrition.API.Test/obj/Debug/netcoreapp3.1/EasyNutrition.API.Test.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EasyNutrition.API/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EasyNutrition.API/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EasyNutrition.API.Test/obj/Debug/netcoreapp3.1/EasyNutrition.API.Test.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNutrition.API.Test/obj/Debug/netcoreapp3.1/EasyNutrition.API.Test.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API.Test/obj/Debug/netcoreapp3.1/EasyNutrition.API.Test.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API.Test/obj/Debug/netcoreapp3.1/EasyNutrition.API.Test.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API.Test/obj/EasyNutrition.API.Test.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNutrition.API.Test/obj/EasyNutrition.API.Test.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API.Test/obj/EasyNutrition.API.Test.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNutrition.API.Test/obj/EasyNutrition.API.Test.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API.Test/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNutrition.API.Test/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API.Test/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNutrition.API.Test/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API.sln" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNutrition.API.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/Domain/Persistence/Contexts/AppDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNutrition.API/Domain/Persistence/Contexts/AppDbContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/bin/Debug/netcoreapp3.1/EasyNutrition.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNutrition.API/bin/Debug/netcoreapp3.1/EasyNutrition.API.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/bin/Debug/netcoreapp3.1/EasyNutrition.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNutrition.API/bin/Debug/netcoreapp3.1/EasyNutrition.API.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/obj/Container/AbsoluteOutputAssemblyPath.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/obj/Container/AdditionalProbingPaths.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/obj/Container/ContainerCreationResult.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/obj/Container/ContainerDevelopmentMode.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNutrition.API/obj/Container/ContainerDevelopmentMode.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/obj/Container/ContainerId.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNutrition.API/obj/Container/ContainerId.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/obj/Container/ContainerName.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNutrition.API/obj/Container/ContainerName.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/obj/Container/ContainerOperatingSystemFlavor.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/obj/Container/ContainerRunContext.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNutrition.API/obj/Container/ContainerRunContext.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/obj/Container/DebuggeeArguments.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/obj/Container/DebuggeeKillProcessCommand.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/obj/Container/DebuggeeProgram.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/obj/Container/DebuggeeWorkingDirectory.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/obj/Container/FastModeProjectMountDirectory.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/obj/Container/ImageBuildContext.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/obj/Container/ImageId.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/obj/Container/OperatingSystemName.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/obj/Container/TargetFramework.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/obj/Container/VsDbgScript.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/obj/Debug/netcoreapp3.1/EasyNutrition.API.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNutrition.API/obj/Debug/netcoreapp3.1/EasyNutrition.API.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EasyNutrition.API/obj/Debug/netcoreapp3.1/EasyNutrition.API.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNutrition.API/obj/Debug/netcoreapp3.1/EasyNutrition.API.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/obj/Debug/netcoreapp3.1/EasyNutrition.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNutrition.API/obj/Debug/netcoreapp3.1/EasyNutrition.API.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/obj/Debug/netcoreapp3.1/EasyNutrition.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNutrition.API/obj/Debug/netcoreapp3.1/EasyNutrition.API.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyNutrition.API/obj/EasyNutrition.API.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EasyNutrition.API/obj/EasyNutrition.API.csproj.nuget.g.props" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,10 +20,10 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/BDDTests/Steps/US0001Steps.cs" />
       <option value="$PROJECT_DIR$/BDDTests/Features/US0002.feature" />
       <option value="$PROJECT_DIR$/BDDTests/Features/US005.feature" />
       <option value="$PROJECT_DIR$/BDDTests/Features/US0006.feature" />
+      <option value="$PROJECT_DIR$/BDDTests/Steps/US0001Steps.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1sEN8p0gkwSQX7r49Cr3gkGEo3X" />
@@ -147,6 +108,7 @@
       <workItem from="1620473649285" duration="302000" />
       <workItem from="1620473969717" duration="68000" />
       <workItem from="1620474060912" duration="795000" />
+      <workItem from="1622910272174" duration="3789000" />
     </task>
     <servers />
   </component>
