@@ -173,7 +173,6 @@ C:\Users\Alex\Documents\GitHub\HealthyNutritionBackend\EasyNutrition.API\EasyNut
 C:\Users\Alex\Documents\GitHub\HealthyNutritionBackend\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Alex\Documents\GitHub\HealthyNutritionBackend\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
 C:\Users\Alex\Documents\GitHub\HealthyNutritionBackend\EasyNutrition.API\EasyNutrition.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Alex\Documents\GitHub\HealthyNutritionBackend\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.csprojAssemblyReference.cache
 C:\Users\Alex\Documents\GitHub\HealthyNutritionBackend\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.AssemblyInfoInputs.cache
 C:\Users\Alex\Documents\GitHub\HealthyNutritionBackend\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.AssemblyInfo.cs
 C:\Users\Alex\Documents\GitHub\HealthyNutritionBackend\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.csproj.CoreCompileInputs.cache
@@ -187,3 +186,4 @@ C:\Users\Alex\Documents\GitHub\HealthyNutritionBackend\EasyNutrition.API\EasyNut
 C:\Users\Alex\Documents\GitHub\HealthyNutritionBackend\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.dll
 C:\Users\Alex\Documents\GitHub\HealthyNutritionBackend\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.pdb
 C:\Users\Alex\Documents\GitHub\HealthyNutritionBackend\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.genruntimeconfig.cache
+C:\Users\Alex\Documents\GitHub\HealthyNutritionBackend\EasyNutrition.API\EasyNutrition.API\obj\Debug\netcoreapp3.1\EasyNutrition.API.csprojAssemblyReference.cache

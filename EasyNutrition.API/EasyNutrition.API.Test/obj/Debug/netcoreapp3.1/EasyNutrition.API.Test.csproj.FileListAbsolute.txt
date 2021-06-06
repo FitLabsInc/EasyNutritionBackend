@@ -149,3 +149,7 @@ E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API.
 E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API.Test\obj\Debug\netcoreapp3.1\EasyNutrition.API.Test.csproj.CoreCompileInputs.cache
 E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API.Test\obj\Debug\netcoreapp3.1\EasyNutrition.API.Test.dll
 E:\Proyectos Programación\C#\EasyNutrition\EasyNutrition.API\EasyNutrition.API.Test\obj\Debug\netcoreapp3.1\EasyNutrition.API.Test.pdb
+C:\Users\Alex\Documents\GitHub\HealthyNutritionBackend\EasyNutrition.API\EasyNutrition.API.Test\obj\Debug\netcoreapp3.1\EasyNutrition.API.Test.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\HealthyNutritionBackend\EasyNutrition.API\EasyNutrition.API.Test\obj\Debug\netcoreapp3.1\EasyNutrition.API.Test.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\GitHub\HealthyNutritionBackend\EasyNutrition.API\EasyNutrition.API.Test\obj\Debug\netcoreapp3.1\EasyNutrition.API.Test.AssemblyInfo.cs
+C:\Users\Alex\Documents\GitHub\HealthyNutritionBackend\EasyNutrition.API\EasyNutrition.API.Test\obj\Debug\netcoreapp3.1\EasyNutrition.API.Test.csproj.CoreCompileInputs.cache
